@@ -72,7 +72,7 @@ class LinkedList:
 * get value: O(n) T, O(1) S
 * set value: O(n) T, O(1) S
 * initialize (given elements): O(n) ST
-* copy O(n): ST
+* copy: O(n) ST
 * traverse: O(n) T, O(1) S
 * insert at head: O(1) ST
 * insert at end: O(n) T, O(1) S
