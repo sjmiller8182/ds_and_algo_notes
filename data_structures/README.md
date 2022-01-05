@@ -4,7 +4,7 @@
 
 * [Arrays](./arrays.md)
 * [LinkedList](./linked_list.md)
-* Stack TODO
+* [Stack](./stack.md)
 * Queue TODO
 * Hash Table TODO
 * String TODO
