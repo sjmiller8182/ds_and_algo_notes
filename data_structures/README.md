@@ -13,4 +13,4 @@
 
 **Data Structures Map**
 
-![DS Map](../artifact/data_structures-DS_Map.draw.io.png)
+![DS Map](../artifact/data_structures-DS_Map.drawio.png)
