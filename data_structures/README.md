@@ -10,3 +10,7 @@
 * String TODO
 * Trees TODO
 * Graphs TODO
+
+**Data Structures Map**
+
+![DS Map](../artifact/data_structures-DS_Map.draw.io.png)
